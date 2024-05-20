@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POC_TDD_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6df753613430ed9cdecc65f0f7e74ab5078fd915")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bda2928410c27f2f4a629cae8972fc44dc5d2de")]
 [assembly: System.Reflection.AssemblyProductAttribute("POC_TDD_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POC_TDD_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
