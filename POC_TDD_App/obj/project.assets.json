@@ -1015,11 +1015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\TDD_New\\POC_TDD\\POC_TDD_App\\POC_TDD_App.csproj",
+      "projectUniqueName": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\TDD_POC\\POC_TDD_App\\POC_TDD_App.csproj",
       "projectName": "POC_TDD_App",
-      "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\TDD_New\\POC_TDD\\POC_TDD_App\\POC_TDD_App.csproj",
+      "projectPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\TDD_POC\\POC_TDD_App\\POC_TDD_App.csproj",
       "packagesPath": "C:\\Users\\ritesh.tak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\TDD_New\\POC_TDD\\POC_TDD_App\\obj\\",
+      "outputPath": "C:\\Users\\ritesh.tak\\OneDrive - CES Limited\\Documents\\Projects\\POC\\TDD_POC\\POC_TDD_App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ritesh.tak\\AppData\\Roaming\\NuGet\\NuGet.Config",

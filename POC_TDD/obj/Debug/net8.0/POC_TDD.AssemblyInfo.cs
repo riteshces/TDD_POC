@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POC_TDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89e5124cac96369ab034a41daeecbed267ac2009")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bda2928410c27f2f4a629cae8972fc44dc5d2de")]
 [assembly: System.Reflection.AssemblyProductAttribute("POC_TDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POC_TDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
